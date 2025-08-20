@@ -260,7 +260,7 @@
       <param name="video-canvas-size" value="720x1280"/>
       <param name="video-canvas-bgcolor" value="#333333"/>
       <param name="video-layout-bgcolor" value="#000000"/>
-      <param name="video-codec-bandwidth" value="500kb"/>
+      <param name="video-codec-bandwidth" value="1mb"/>
       <param name="video-fps" value="20"/>
       <!-- <param name="video-codec-config-profile-name" value="conference"/> -->
     </profile>
