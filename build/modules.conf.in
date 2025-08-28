@@ -10,19 +10,19 @@ applications/mod_commands
 applications/mod_conference
 #applications/mod_curl
 #applications/mod_cv
-applications/mod_db
+#applications/mod_db
 #applications/mod_directory
 #applications/mod_distributor
 applications/mod_dptools
 #applications/mod_easyroute
 #applications/mod_enum
-applications/mod_esf
+#applications/mod_esf
 #applications/mod_esl
 applications/mod_expr
 #applications/mod_fifo
 #applications/mod_fsk
 #applications/mod_fsv
-applications/mod_hash
+#applications/mod_hash
 #applications/mod_hiredis
 #applications/mod_httapi
 #applications/mod_http_cache
@@ -91,8 +91,8 @@ event_handlers/mod_event_socket
 #event_handlers/mod_snmp
 #formats/mod_imagick
 formats/mod_local_stream
-formats/mod_native_file
-formats/mod_png
+#formats/mod_native_file
+#formats/mod_png
 #formats/mod_shell_stream
 #formats/mod_shout
 formats/mod_sndfile
@@ -133,7 +133,7 @@ loggers/mod_logfile
 xml_int/mod_xml_cdr
 #xml_int/mod_xml_curl
 #xml_int/mod_xml_ldap
-xml_int/mod_xml_rpc
+#xml_int/mod_xml_rpc
 #xml_int/mod_xml_scgi
 
 #mod_freetdm|https://github.com/freeswitch/freetdm.git -b master
